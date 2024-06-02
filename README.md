@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil
   
-Meu nome é <Tayna>
+Meu nome é Tayna
 
 Estou estudando na Alura
 
